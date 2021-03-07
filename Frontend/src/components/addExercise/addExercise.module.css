@@ -1,0 +1,22 @@
+.AddExercise {
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.AddExercise form {
+  display: flex;
+  flex-direction: column;
+}
+
+.AddExercise form input {
+  margin: 10px 0px;
+  padding: 8px;
+}
+
+.AddExercise select {
+  margin: 10px 0px;
+  padding: 8px;
+}

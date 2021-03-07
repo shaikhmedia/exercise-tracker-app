@@ -1,0 +1,25 @@
+.Nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  background-color: lightslategray;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.Nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.Nav ul li {
+  list-style: none;
+  padding: 0px 10px;
+}
+
+.items {
+  color: white;
+  text-decoration: none;
+}

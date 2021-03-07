@@ -1,0 +1,15 @@
+.Table {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.Table tr th {
+  padding: 10px;
+  background-color: lightgray;
+}
+
+.Table tr td {
+  background-color: rgb(241, 241, 241);
+  padding: 8px;
+}

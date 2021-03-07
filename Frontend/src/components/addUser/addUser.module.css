@@ -1,0 +1,17 @@
+.AddUser {
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.AddUser form {
+  display: flex;
+  flex-direction: column;
+}
+
+.AddUser form input {
+  margin: 10px 0px;
+  padding: 8px;
+}
